@@ -1,0 +1,82 @@
+.section .text-center {
+  padding-top: 5px;
+}
+
+.navbar-color-on-scroll {
+	background-color: #3C4858;
+}
+
+.btn-center {
+	position: ;
+}
+
+a,
+a:hover {
+	text-decoration: none;
+	color: inherit;
+}
+
+@media(min-width:576px){
+	.headerimg img {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    bottom: 2rem;
+  }
+
+  .modal .modal-dialog.modal-signup {
+        width: 95%;
+
+    }
+
+
+}
+@media(min-width:768px){
+	.headerimg img {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    bottom: -1rem;
+  }
+}
+@media(min-width:992px){
+	.headerimg img {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    bottom: 10rem;
+  }
+}
+@media(min-width:1200px){
+	.headerimg img {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    bottom: 18rem;
+  }
+}
+
+@media(max-width: 576px){
+	.headerimg img {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    bottom: 5rem;
+	}
+
+	.headertitle {
+		position: relative;
+		bottom: 7rem;
+	}
+
+    .info {
+        padding-top: 0px;
+        padding-bottom: 10px;
+      }
+
+      .modal .modal-dialog.modal-signup {
+        width: 95%;
+
+    }
+
+}
